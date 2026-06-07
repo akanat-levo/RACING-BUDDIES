@@ -81,6 +81,4 @@ Make sure the `assets` and `imgs` folders stay in the same directory as `main.py
 
 ## Troubleshooting
 
-- Use `python main.py`, not `pyton main.py`.
-- If you see `KeyboardInterrupt` and `^C` in the terminal, it means the game was stopped with `Ctrl+C`. Close the game window normally or press `Esc` while playing to return to the menu.
 - If Pygame is missing, run `pip install -r requirements.txt` inside the project folder.
