@@ -42,7 +42,7 @@ If you are using a conda environment, activate it first:
 
 ```bash
 conda activate game
-cd C:\Users\Ashish\CAR-RACER
+cd C:\YOUR FOLDER PATH
 python main.py
 ```
 
